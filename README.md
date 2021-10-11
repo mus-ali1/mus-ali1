@@ -1,7 +1,4 @@
-# [![Header](https://github.com/mus-ali1/mus-ali1/raw/main/images/readme_header.png)](https://mus-ali1.github.io/Professional-Portfolio/)
-
-
-
+# [![Header](https://raw.githubusercontent.com/mus-ali1/mus-ali1/main/images/readme_header.png "Header")](https://mus-ali1.github.io/Professional-Portfolio/)
 
 ### Hi there 👋
 
