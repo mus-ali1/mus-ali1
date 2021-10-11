@@ -1,3 +1,10 @@
+[![Header](https://raw.githubusercontent.com/mus-ali1/<OWNER>/<OWNER>/readme_header.png "Header")](https://mus-ali1.github.io/Professional-Portfolio/)
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
