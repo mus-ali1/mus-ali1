@@ -1,5 +1,3 @@
-![Header](read-me-header.jpg)
-
 
 # Hello, folks ! 👋
 
