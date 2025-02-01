@@ -1,7 +1,7 @@
 
 # Hello, folks ! 👋
 
-My name is Mustafa Ali and I'm a Full Stack Software Engineer, currently residing in Birmingham (UK), I have 2+ years experience in teaching English combined with a Social Sciences degree in International Relations and Law. Building efficient, polished software that solves real world problems is the name of the game.  I am a naturally curious person which means I'm always keen to learn new things, a problem-solver who questions everything, and a hard worker who doesn't take life too seriously and enjoys the little things.☕
+Part detective, part sponge, and 100% team player—I ask the big questions, chase down the answers, and soak up knowledge like it’s my job (because it is). Ethics aren’t just a guideline; they’re my non-negotiable foundation. Whether I’m cracking complex problems or brainstorming with brilliant minds, I thrive on collaboration and continuous learning. Growth isn’t a milestone—it’s a mindset, and I’m always in motion. Ready to learn, ready to lead, and always ready to lend a hand (or a good idea).
 
 Some fun things about me ✨
 
